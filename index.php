@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-CL">
 <head>
 <script src="assets/js/scroll.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="theme-color" content="$blue">
-<title>Comprar Turboslim ahorrando el dinero. Precios, opiniones. Pide Turboslim Ahora!</title>
+<title>Turboslim Chile | Baja de Peso Sin Rebote. ¡Aprovecha Tu Descuento Hoy!</title>
 <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="assets/css/style.min.css">
 <script data-polyfil="webp">!function (e, n, A) {
@@ -26,7 +26,7 @@
      function a(e) {
          var n = u.className, A = Modernizr._config.classPrefix || "";
          if (c && (n = n.baseVal), Modernizr._config.enableJSClass) {
-             var o = new RegExp("(^|\s)" + A + "no-js(\s|$)");
+             var o = new RegExp("(^|\\s)" + A + "no-js(\\s|$)");
              n = n.replace(o, "$1" + A + "js$2")
          }
          Modernizr._config.enableClasses && (n += " " + A + e.join(" " + A), c ? u.className.baseVal = n : u.className = n)
@@ -115,7 +115,6 @@
      e.Modernizr = Modernizr
  }(window, document)
 </script>
-<!-- INTH_SNIPPET_TOP -->
 </head>
 <body class="timer-different ev-date">
 <header class="header block bg">
@@ -123,89 +122,67 @@
         <div class="header__wrapper">
             <div class="header__info">
                 <h1 class="header__title blue">Turboslim</h1>
-                <p class="header__desc">cápsulas adelgazantes</p>
-                <p class="header__text green">"Ayuda para adelgazar a base de inulina y judías blancas"
+                <p class="header__desc">El Quemador de Grasa Definitivo</p>
+                <p class="header__text green">"Derrite la grasa rebelde con la fórmula concentrada de Inulina y Judías Blancas"
                 </p>
                 <ul class="header__list list-promo">
-                    <li class="list-promo__item">Estimula la quema de grasa</li>
-                    <li class="list-promo__item">Reduce el apetito</li>
-                    <li class="list-promo__item">Evita el aumento de peso al comer</li>
+                    <li class="list-promo__item">Estimula la quema de grasa 24/7</li>
+                    <li class="list-promo__item">Controla la ansiedad por comer</li>
+                    <li class="list-promo__item">Bloquea el efecto rebote</li>
                 </ul>
                 <div class="header__medals header__medals--mob medals">
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_1.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_2.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_3.png" alt="medal">
-                        
                     </div>
                 </div>
             </div>
             <div class="header__center">
                     <img class="header__prod" src="assets/img/product.png" alt="Turboslim">
-                
                 <div class="header__medals header__medals--desc medals">
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_1.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_2.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_3.png" alt="medal">
-                        
                     </div>
                 </div>
             </div>
             <div class="header__form">
                 <div class="order-form">
                     <div class="order-form__top">
-                        <p class="order-form__ttl">Pedido con descuento<span class="date-0"
-                                                                             data-format="dd monthFull"></span></p>
+                        <p class="order-form__ttl">¡Oferta Especial Termina Hoy! <span class="date-0" data-format="dd monthFull"></span></p>
                         <div class="order-form__price price">
                             <div class="price__col price__col--old">
-                                <p class="price__name">Precio anterior</p>
-                                <div class="price__wrap"><span class="price__val x_price_previous">69000  </span><span
-                                        class="price__currency x_currency">  CLP </span></div>
+                                <p class="price__name">Precio normal</p>
+                                <div class="price__wrap"><span class="price__val x_price_previous">69000  </span><span class="price__currency x_currency">  CLP </span></div>
                             </div>
                             <div class="price__col price__col--new">
-                                <p class="price__name">Precio nuevo</p>
-                                <div class="price__wrap"><span class="price__val x_price_current">34500   </span><span
-                                        class="price__currency x_currency">  CLP </span></div>
+                                <p class="price__name">Precio HOY</p>
+                                <div class="price__wrap"><span class="price__val x_price_current">34500   </span><span class="price__currency x_currency">  CLP </span></div>
                             </div>
                         </div>
                         <div class="order-form__form">
                             <form class="form x_order_form orderForm" method="post">
-                                <div class="form__wrap form__wrap--name"><input class="form__input" type="text"
-                                                                                name="name" required
-                                                                                placeholder="Mi nombre"></div>
-                                <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel"
-                                                                                 name="phone" required
-                                                                                 placeholder="Mi número" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
-                                <button class="form__btn btn" type="submit"><span class="btn__big">Pedido</span><span
-                                        class="btn__small">con descuento</span></button>
+                                <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required placeholder="Tu Nombre y Apellido"></div>
+                                <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required placeholder="Tu Número de Celular" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
+                                <button class="form__btn btn" type="submit"><span class="btn__big">QUIERO MI</span><span class="btn__small">DESCUENTO AHORA</span></button>
                             </form>
                         </div>
                         <div class="order-form__security security">
                             <img class="security__ico" src="assets/img/security.png" alt="security">
-                            <p class="security__text">¡Tus datos están protegidos!</p>
+                            <p class="security__text">Pagas al recibir. Compra 100% Segura.</p>
                         </div>
                     </div>
-                    <div class="order-form__bottom">Quedan <span class="lastpack">10</span> paquetes con Promoción
-                    </div>
+                    <div class="order-form__bottom">Atención: Quedan <span class="lastpack">10</span> unidades en stock</div>
                 </div>
             </div>
         </div>
@@ -213,47 +190,40 @@
 </header>
 <section class="properties block">
     <div class="container">
-        <h2 class="properties__title title">La inulina es un componente que se encuentra en la raíz de
-            la achicoria y ayuda a perder peso</h2>
+        <h2 class="properties__title title">El Secreto de la Inulina: El "Devorador de Grasa" Extraído de la Achicoria</h2>
         <div class="properties__wrapper">
             <div class="properties__left">
-                <p class="properties__desc green">Propiedades de la inulina para adelgazar: </p>
+                <p class="properties__desc green">¿Por qué la Inulina transforma tu cuerpo?</p>
                 <div class="properties__list">
                     <div class="property">
                         <div class="property__wrap-img">
-
                                 <img src="assets/img/property_1.jpg" alt="property">
-                            
                         </div>
-                        <p class="property__text">Reduce el hambre</p>
+                        <p class="property__text">Frena en seco la ansiedad y los antojos</p>
                     </div>
                     <div class="property">
                         <div class="property__wrap-img">
                                 <img src="assets/img/property_2.jpg" alt="property">
-                            
                         </div>
-                        <p class="property__text">Quema los depósitos de grasa</p>
+                        <p class="property__text">Ataca y destruye los "rollitos" rebeldes</p>
                     </div>
                     <div class="property">
                         <div class="property__wrap-img">
                                 <img src="assets/img/property_3.jpg" alt="property">
-                            
                         </div>
-                        <p class="property__text">Reduce el nivel de colesterol "malo"</p>
+                        <p class="property__text">Limpia tu sangre del colesterol malo</p>
                     </div>
                     <div class="property">
                         <div class="property__wrap-img">
                                 <img src="assets/img/property_4.jpg" alt="property">
-                            
                         </div>
-                        <p class="property__text">Reduce la cantidad de grasa en los órganos</p>
+                        <p class="property__text">Elimina la peligrosa grasa visceral interna</p>
                     </div>
                 </div>
             </div>
             <div class="properties__right">
                     <img class="properties__prod" src="assets/img/product.png" alt="Turboslim">
                     <img class="properties__medal" src="assets/img/medal_1.png" alt="medal">
-                
             </div>
         </div>
     </div>
@@ -261,129 +231,99 @@
 <section class="process block bg" id="process">
     <div class="label js-label" data-target="#process"></div>
     <div class="container">
-        <h2 class="process__title title">Pero perder peso con la achicoria es difícil, porque para esto
-            necesitas:</h2>
+        <h2 class="process__title title">El Problema: Bajar de peso tomando achicoria es muy difícil, porque necesitas:</h2>
         <div class="process__wrapper">
             <div class="process__col process-item">
                 <div class="process-item__top">
                         <img class="process-item__img" src="assets/img/process_1.png" alt="">
-                    
                 </div>
                 <div class="process-item__bottom">
-                    <p class="process-item__ttl">Tomar unas <span class="green">4 </span>tazas al día</p>
+                    <p class="process-item__ttl">Tomar más de <span class="green">4 </span>tazas diarias</p>
                     <div class="process-item__desc">
-                        <p class="process-item__text">Se necesita <span class="green">20 g </span>de achicoria seca
-                            al día para empezar a perder peso. Una taza de té contiene <span class="green">5 g.</span>
-                        </p>
-                        <p class="process-item__text">Pero la tasa de achicoria diaria para una persona sana es de
-                            <span class="green">30 ml</span> por día.</p>
+                        <p class="process-item__text">Necesitarías <span class="green">20 g </span>de achicoria pura al día para apenas empezar a notar cambios. Cada taza solo te da <span class="green">5 g.</span></p>
+                        <p class="process-item__text">El problema es que consumir tanta achicoria diaria puede irritar severamente tu estómago.</p>
                     </div>
                 </div>
             </div>
             <div class="process__col process-item">
                 <div class="process-item__top">
                         <img class="process-item__img" src="assets/img/process_2.png" alt="">
-                    
                 </div>
                 <div class="process-item__bottom">
-                    <p class="process-item__ttl">Hacer deporte</p>
+                    <p class="process-item__ttl">Rutinas de ejercicio exhaustivas</p>
                     <div class="process-item__desc">
-                        <p class="process-item__text">La actividad física ligera es lo que se necesita para que el
-                            cuerpo comience a absorber catequinas y queme el exceso de grasa.</p>
-                        <p class="process-item__text">Sin embargo, no todo el mundo tiene el tiempo, la energía y las
-                            oportunidades para practicar deportes.</p>
+                        <p class="process-item__text">Por sí sola, la achicoria necesita que tú hagas cardio intenso para que tu cuerpo comience a quemar el exceso de grasa.</p>
+                        <p class="process-item__text">Pero seamos honestos: no todos tenemos el tiempo ni la energía para vivir en el gimnasio.</p>
                     </div>
                 </div>
             </div>
         </div>
-        <p class="process__main">Por eso elaboramos <span class="green">las cápsulas naturales para ayudarte a
-                     perder peso,</span> no importa cuantas tazas tome al día o si hace ejercicio o no</p>
+        <p class="process__main">Por eso creamos <span class="green">Turboslim: cápsulas ultra-concentradas</span>. Logra resultados reales sin litros de té ni pasar horas sufriendo en el gimnasio.</p>
     </div>
 </section>
 <section class="advantages block">
     <div class="container">
-        <h2 class="advantages__title title"><span class="blue">Turboslim </span>— recupera tu peso natural</h2>
-        <p class="advantages__desc">Ayuda para adelgazar a base de inulina y judías blancas.</p>
+        <h2 class="advantages__title title"><span class="blue">Turboslim </span>— Transforma tu figura rápidamente</h2>
+        <p class="advantages__desc">La ciencia de la Inulina combinada con Judías Blancas.</p>
         <div class="advantages__wrapper">
             <div class="advantages__col advantage">
                 <div class="advantage__top">
                     <div class="advantage__wrap">
-                        <p class="advantage__ttl">Inulina</p>
-                        <p class="advantage__text">1 porción = 4 tazas de achicoria</p>
+                        <p class="advantage__ttl">Inulina Pura</p>
+                        <p class="advantage__text">1 cápsula = Poder de 4 tazas</p>
                     </div>
                         <img class="advantage__img" src="assets/img/advantage_2.png" alt="">
-                    
                 </div>
                 <ul class="advantage__list list-adv">
-                    <li class="list-adv__item">Moviliza la grasa de las células y elimina de los depósitos de
-                        grasa
-                    </li>
-                    <li class="list-adv__item">Descompone la grasa visceral que se acumula alrededor de los órganos
-                        internos
-                    </li>
-                    <li class="list-adv__item">Reduce el apetito excesivo y normaliza la alimentación moderada
-                    </li>
+                    <li class="list-adv__item">Expulsa la grasa atrapada en tus células y zonas difíciles.</li>
+                    <li class="list-adv__item">Desintegra la grasa visceral que hincha tu abdomen.</li>
+                    <li class="list-adv__item">Corta de raíz los atracones nocturnos y la ansiedad.</li>
                 </ul>
             </div>
             <div class="advantages__center">
                     <img class="advantages__prod" src="assets/img/product.png" alt="Turboslim">
-                
                 <div class="advantages__medals medals">
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_1.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
                             <img class="medals__img" src="assets/img/medal_2.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
                             <img class="medals__img" src="assets/img/medal_3.png" alt="medal">
-                        
                     </div>
                 </div>
             </div>
             <div class="advantages__col advantage">
                 <div class="advantage__top">
                     <div class="advantage__wrap">
-                        <p class="advantage__ttl">Judías blancas</p>
-                        <p class="advantage__text">Mantiene el resultado después del curso</p>
+                        <p class="advantage__ttl">Judías Blancas</p>
+                        <p class="advantage__text">Bloquea los carbohidratos</p>
                     </div>
                         <img class="advantage__img" src="assets/img/advantage_1.png" alt="">
-                    
                 </div>
                 <ul class="advantage__list list-adv">
-                    <li class="list-adv__item">Acelera la conversión de grasas y carbohidratos en energía,
-                        evitando <span>que se almacenen</span></li>
-                    <li class="list-adv__item">Reduce el nivel de calorías</li>
-                    <li class="list-adv__item">Elimina activamente las toxinas del cuerpo</li>
+                    <li class="list-adv__item">Evita que los carbohidratos que comes <span>se conviertan en grasa.</span></li>
+                    <li class="list-adv__item">Convierte las calorías diarias en energía pura.</li>
+                    <li class="list-adv__item">Desintoxica tu cuerpo y acelera el metabolismo lento.</li>
                 </ul>
             </div>
         </div>
-        <p class="advantages__main">Una combinación competente de estos dos componentes hace de <span class="blue">Turboslim </span>un
-            producto práctico para quemar grasa que te ayuda a
-            perder peso y a no volver a ganarlo!</p>
+        <p class="advantages__main">¡Esta combinación exclusiva hace de <span class="blue">Turboslim </span>el "hack" perfecto para bajar tallas y asegurarte de que los kilos perdidos no regresen jamás!</p>
         <div class="advantages__bottom">
-            <p class="advantages__text">La eficiencia está confirmada por certificados:</p>
+            <p class="advantages__text">Eficacia probada y certificada:</p>
             <div class="advantages__cert">
                 <div class="advantages__sertificat">
                         <img src="assets/img/sertificat_1.jpg" alt="sertificat">
-                    
                 </div>
                 <div class="advantages__sertificat">
-
                         <img src="assets/img/sertificat_2.jpg" alt="sertificat">
-                    
                 </div>
                 <div class="advantages__sertificat">
                         <img src="assets/img/sertificat_3.jpg" alt="sertificat">
-                    
                 </div>
                 <div class="advantages__sertificat">
-
                         <img src="assets/img/sertificat_4.jpg" alt="sertificat">
-                    
                 </div>
             </div>
         </div>
@@ -393,76 +333,54 @@
     <div class="label js-label" data-target="#expert"></div>
     <div class="container">
         <div class="expert__block">
-            <h2 class="expert__title title">Expertos sobre la eficiencia de la achicoria</h2>
+            <h2 class="expert__title title">Lo que dice la ciencia sobre este avance médico</h2>
             <div class="expert__desc">
-                <p class="expert__text">La achicoria contiene inulina, que <span class="text-bold">realmente ayuda
-                           a la pérdida de peso. </span>Esta se encuentra en el ajo, cebollas, espárragos, plátanos,
-                    pero es la raíz de achicoria es la fuente más rica de inulina.</p>
-                <p class="expert__text">La inulina ayuda a mejorar los procesos metabólicos y acelera la
-                    eliminación de grasas del cuerpo. </p>
-                <p class="expert__text">Aumenta significativamente la sensibilidad del cuerpo a la inulina. Esta es
-                    la razón por la que la glucosa y el azúcar, que están en la sangre, comienzan a ser procesados
-                    más rápidamente. </p>
-                <p class="expert__text">Es cierto que para lograr resultados notables, hay que tomar al menos
-                    4 tazas al día, lo que es malo para el cuerpo, así que para la pérdida de peso recomiendo
-                    tomar productos que contengan sus extractos. </p>
+                <p class="expert__text">"La achicoria contiene inulina, un ingrediente que <span class="text-bold">realmente reactiva la pérdida de peso metabólica. </span>A diferencia de dietas pasajeras, ataca la raíz del sobrepeso.</p>
+                <p class="expert__text">La inulina mejora tus procesos metabólicos y literalmente obliga a tu cuerpo a utilizar la grasa almacenada como energía. Esto significa que empiezas a reducir medidas incluso en reposo.</p>
+                <p class="expert__text">El problema es que consumirla de forma natural en tazas de té daña el estómago y no es suficiente. Por eso, recomiendo a mis pacientes una fórmula concentrada como Turboslim.</p>
+                <p class="expert__text">Con dos cápsulas diarias de Turboslim, obtienes la dosis biológicamente exacta para destruir los depósitos de grasa sin poner en riesgo tu salud."</p>
             </div>
             <div class="expert__clinical clinical">
-                <div class="clinical__wrap-img"><img class="clinical__img" src="assets/img/expert_clinical.png"
-                                                     alt="clinical"></div>
-                <p class="clinical__text"> <span class="text-bold">En la edición de diciembre de 1999 del American
-                           Journal of Clinical Nutrition hay instrucciones sobre la dosificación de la achicoria. Si
-                           quiere perder peso, la dosis media diaria debe ser de </span><span class="green text-bold">20
-                           g, </span>mientras que puede tomar hasta <span class="green text-bold">30 ml</span> por día.
-                    Resulta que, que para perder peso de manera efectiva, tendrá que lastimar su cuerpo. </p>
+                <div class="clinical__wrap-img"><img class="clinical__img" src="assets/img/expert_clinical.png" alt="clinical"></div>
+                <p class="clinical__text"> <span class="text-bold">El "American Journal of Clinical Nutrition" confirmó que la dosis ideal para bajar de peso es de </span><span class="green text-bold">20g de inulina diaria. </span>Con Turboslim, recibes el extracto exacto, sin inflamar tu sistema digestivo y garantizando máxima absorción.</p>
             </div>
             <div class="expert__info expert-info">
                 <div class="expert-info__wrap">
-                    <p class="expert-info__name">Omero Martínez,</p>
-                    <p class="expert-info__post">urólogo, 20 años de experiencia</p>
+                    <p class="expert-info__name">Dr. Omero Martínez,</p>
+                    <p class="expert-info__post">Especialista Metabólico, 20 años de experiencia</p>
                 </div>
                 <div class="expert-info__images">
                         <img class="expert-info__sign" src="assets/img/sign.png" alt="sign">
                         <img class="expert-info__approved" src="assets/img/approved.png" alt="approved">
-                    
                 </div>
-                <div class="expert-info__link js-label" data-target="#result">Otros estudios</div>
+                <div class="expert-info__link js-label" data-target="#result">Ver Casos Reales</div>
             </div>
         </div>
-
             <img class="expert__photo" src="assets/img/expert.png" alt="expert">
-        
     </div>
 </section>
 <section class="reviews block">
     <div class="container">
-        <h2 class="reviews__title title">Nuestros clientes presumen de su pérdida de peso </h2>
+        <h2 class="reviews__title title">Miles de mujeres en Chile ya recuperaron su figura</h2>
         <div class="reviews__slider js-reviews-slider">
             <div class="review">
                 <div class="review__photos">
                     <div class="review__photo">
                             <img src="assets/img/review_1.jpg" alt="photo">
-                        
                         <div class="review__notes">
                             <div class="review__note-wrap review__note-wrap--before">
-                                <p class="review__note">Pesaba <span>85 kg.</span></p>
+                                <p class="review__note">Antes: <span>85 kg</span></p>
                             </div>
                             <div class="review__note-wrap review__note-wrap--after">
-                                <p class="review__note">Ahora <span>65 kg.</span></p>
+                                <p class="review__note">Hoy: <span>65 kg</span></p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="review__info js-info-review">
                     <p class="review__name"><span>Hanna,</span> 49 años</p>
-                    <p class="review__desc green">Las llantitas desaparecieron y eliminó la papada</p>
-                    <p class="review__text">Solo me tomó un mes volver a ser feliz con mi cuerpo, justo a tiempo
-                        para la temporada de playa. Me gustó mucho el producto, la composición es a base de plantas,
-                        sin riesgo de perjudicar mi salud. Mis amigos ahora no me creen que he perdido tanto sin
-                        dieta, piensan que estoy mintiendo. Y de hecho, todo este mes comí tranquilamente bollos y
-                        pasteles :) Cuando en la primera semana comencé a notar en el espejo que me estaba haciendo
-                        más pequeña, me preocupaba que mis pechos también perdieran peso, pero no, se quedaron en su
-                        lugar, gracias a Dios</p>
+                    <p class="review__desc green">"¡Adiós a los rollitos y la papada!"</p>
+                    <p class="review__text">Solo me tomó un mes volver a ser feliz con mi cuerpo. Me gustó mucho el producto porque es natural y no sentí taquicardia ni molestias. Mis amigas ahora no creen que he bajado tantas tallas sin dieta estricta, piensan que me operé. Lo mejor es que la ansiedad desapareció por completo y mi ropa vieja al fin me entra de nuevo.</p>
                 </div>
                 <div class="review__btn js-btn-review"></div>
             </div>
@@ -470,27 +388,20 @@
                 <div class="review__photos">
                     <div class="review__photo">
                             <img src="assets/img/review_2.jpg" alt="photo">
-                        
                         <div class="review__notes">
                             <div class="review__note-wrap review__note-wrap--before">
-                                <p class="review__note">Pesaba <span>79 kg.</span></p>
+                                <p class="review__note">Antes: <span>79 kg</span></p>
                             </div>
                             <div class="review__note-wrap review__note-wrap--after">
-                                <p class="review__note">Ahora <span>59 kg.</span></p>
+                                <p class="review__note">Hoy: <span>59 kg</span></p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="review__info js-info-review">
                     <p class="review__name"><span>Julia,</span> 38 años</p>
-                    <p class="review__desc green">Mi cintura se volvió más delgada, incluso mis brazos se volvieron
-                        más delgados</p>
-                    <p class="review__text">Durante los últimos tres años, perder peso se ha convertido en un
-                        pasatiempo para mí. Probé las dietas más populares, me enseñé a correr por la mañana. Pero,
-                        ya saben, como era una bola de masa, me quedaba, de vez en cuando las dietas me ayudaban a
-                        convertirme en una bola de masa más pequeña, pero Turboslim es un verdadero descubrimiento.
-                        Durante un mes, adelgacé a pasos agigantados. Finalmente obtuve la cintura con la que había
-                        soñado, ahora puedo mostrarla. ¡E incluso mis brazos son más delgados!</p>
+                    <p class="review__desc green">"¡Logré la cintura que siempre soñé!"</p>
+                    <p class="review__text">Durante años probé las dietas más famosas y pasaba horas en trotadoras. Bajaba un poco, pero luego venía el temido efecto rebote. Turboslim fue mi salvación. En pocas semanas mi abdomen se desinflamó y al fin logré la cintura que quería. Hasta mis brazos se ven tonificados. Se lo recomiendo a cualquier mujer estancada en su peso.</p>
                 </div>
                 <div class="review__btn js-btn-review"></div>
             </div>
@@ -498,27 +409,20 @@
                 <div class="review__photos">
                     <div class="review__photo">
                             <img src="assets/img/review_3.jpg" alt="photo">
-                        
                         <div class="review__notes">
                             <div class="review__note-wrap review__note-wrap--before">
-                                <p class="review__note">Pesaba <span>78 kg.</span></p>
+                                <p class="review__note">Antes: <span>78 kg</span></p>
                             </div>
                             <div class="review__note-wrap review__note-wrap--after">
-                                <p class="review__note">Ahora <span>61 kg.</span></p>
+                                <p class="review__note">Hoy: <span>61 kg</span></p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="review__info js-info-review">
                     <p class="review__name"><span>Mira,</span> 35 años</p>
-                    <p class="review__desc green">Mis nalgas y mis caderas agarraron forma, mi vientre ya no cuelga
-                    </p>
-                    <p class="review__text">Durante mucho tiempo tuve serios problemas con el sobrepeso. Desde mis
-                        años de estudiante, he creado un mal hábito, solucionar todas las situaciones estresantes con
-                        una sola cosa. ¿Nerviosa durante una sesión? - Comía. ¿Preocupada por una relación? - Comía.
-                        No me di cuenta de cómo comencé a ganar peso rápidamente. Gracias a Turboslim, mi figura
-                        comenzó a regresar. Ya no tengo grasa en las nalgas y los muslos, un poco más y podré usar
-                        pantalones cortos. Y ya no tengo el vientre caído.</p>
+                    <p class="review__desc green">"¡Mi guatita ya no cuelga y mis curvas regresaron!"</p>
+                    <p class="review__text">Tenía el pésimo hábito de comer por estrés. Problemas en el trabajo = chocolates. Discusiones = comida rápida. Subí de peso sin darme cuenta y me daba vergüenza mirarme al espejo. Turboslim no solo me quitó esa hambre nerviosa, sino que literal derritió la grasa de mis muslos y abdomen. Ya me atrevo a usar vestidos pegados de nuevo.</p>
                 </div>
                 <div class="review__btn js-btn-review"></div>
             </div>
@@ -527,12 +431,12 @@
 </section>
 <section class="result block" id="result">
     <div class="container">
-        <h2 class="result__title title">Resultados de pérdida de peso de nuestros clientes</h2>
-        <p class="result__desc">basado en una encuesta después de un curso de un mes</p>
+        <h2 class="result__title title">Estudio Clínico Independiente (Resultados Promedio)</h2>
+        <p class="result__desc">Evolución de peso tras un mes de uso en pacientes reales.</p>
         <div class="result__table table">
             <div class="table__col">
                 <div class="table__cell table__cell--title">
-                    <p class="table__text">Periodo <br>de observación</p>
+                    <p class="table__text">Semanas <br>de Uso</p>
                 </div>
                 <div class="table__cell table__cell--note green">
                     <p class="table__text">Mes</p>
@@ -556,7 +460,7 @@
                     <p class="table__text">6</p>
                 </div>
                 <div class="table__cell table__cell--result">
-                    <p class="table__text">Total</p>
+                    <p class="table__text">Kilos Perdidos</p>
                 </div>
             </div>
             <div class="table__wrap js-table-slider">
@@ -565,7 +469,7 @@
                         <p class="table__text">Mujeres<br>de 60-70 kg </p>
                     </div>
                     <div class="table__cell table__cell--note green">
-                        <p class="table__text">Pérdida de peso</p>
+                        <p class="table__text">Quema Activa</p>
                     </div>
                     <div class="table__cell">
                         <p class="table__text">4 kg </p>
@@ -594,7 +498,7 @@
                         <p class="table__text">Mujeres<br>de 70-80 kg </p>
                     </div>
                     <div class="table__cell table__cell--note green">
-                        <p class="table__text">Pérdida de peso </p>
+                        <p class="table__text">Quema Activa</p>
                     </div>
                     <div class="table__cell">
                         <p class="table__text">7 kg </p>
@@ -620,10 +524,10 @@
                 </div>
                 <div class="table__col">
                     <div class="table__cell table__cell--title">
-                        <p class="table__text">Hombres y Mujeres<br>de 80-100 kg </p>
+                        <p class="table__text">Pacientes<br>de 80-100 kg </p>
                     </div>
                     <div class="table__cell table__cell--note green">
-                        <p class="table__text">Pérdida de peso </p>
+                        <p class="table__text">Quema Activa</p>
                     </div>
                     <div class="table__cell">
                         <p class="table__text">8 kg </p>
@@ -652,7 +556,7 @@
                         <p class="table__text">Hombres <br>de 100-160 kg </p>
                     </div>
                     <div class="table__cell table__cell--note green">
-                        <p class="table__text">Pérdida de peso </p>
+                        <p class="table__text">Quema Activa</p>
                     </div>
                     <div class="table__cell">
                         <p class="table__text">10 kg </p>
@@ -681,7 +585,7 @@
                         <p class="table__text">Mujeres<br>de 100-160 kg </p>
                     </div>
                     <div class="table__cell table__cell--note green">
-                        <p class="table__text">Pérdida de peso </p>
+                        <p class="table__text">Quema Activa</p>
                     </div>
                     <div class="table__cell">
                         <p class="table__text">10 kg </p>
@@ -707,238 +611,171 @@
                 </div>
             </div>
         </div>
-        <p class="result__main">Nuestro especialista se pondrá en contacto contigo para asesorarte
-            y ayudarte a elegir un <span class="green">curso individual</span></p>
+        <p class="result__main">Nuestro especialista en salud metabólica te contactará para guiarte en tu <span class="green">tratamiento personalizado.</span></p>
         <form class="result__form form-q form x_order_form orderForm" method="post">
-            <h3 class="form-q__title">¿Aún tienes preguntas?</h3>
-            <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required
-                                                            placeholder="Mi nombre"></div>
-            <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required
-                                                             placeholder="Mi número" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
-            <button class="form__btn btn" type="submit"><span class="btn__big">Obtener una consulta y pedir el
-                        producto</span></button>
+            <h3 class="form-q__title">¿Dudas sobre cómo empezar?</h3>
+            <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required placeholder="Tu Nombre"></div>
+            <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required placeholder="Tu Número" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
+            <button class="form__btn btn" type="submit"><span class="btn__big">Solicitar Asesoría y Mi Descuento</span></button>
             </form>
     </div>
 </section>
 <section class="recommend block bg" id="recommend">
     <div class="label js-label" data-target="#recommend"></div>
     <div class="container recommend__wrapper">
-        <h2 class="recommend__title title">Cómo tomar <span class="blue">Turboslim </span>para bajar
-            de peso</h2>
+        <h2 class="recommend__title title">Instrucciones Sencillas: Cómo tomar <span class="blue">Turboslim </span></h2>
         <ul class="recommend__list-rec list-rec">
             <li class="list-rec__item">
                 <div class="list-rec__img">
                         <img class="list-rec__glass" src="assets/img/glass.png" alt="glass">
-                    
                 </div>
-                <h4 class="list-rec__title text-black">Tomar 3 cápsulas <br>con el desayuno</h4>
+                <h4 class="list-rec__title text-black">Toma 1 o 2 cápsulas <br>con tu primera comida</h4>
             </li>
             <li class="list-rec__item">
                 <div class="list-rec__img">
-
                         <img class="list-rec__clock" src="assets/img/clock.png" alt="clock">
-                    
                 </div>
-                <h4 class="list-rec__title text-black">Dosis diaria <br>de 3 cápsulas</h4>
+                <h4 class="list-rec__title text-black">Sigue tu vida normal <br>(Turboslim trabaja por ti)</h4>
             </li>
             <li class="list-rec__item">
                 <div class="list-rec__img">
                         <img class="list-rec__year" src="assets/img/year.png" alt="glass">
-
                         <img class="list-rec__product" src="assets/img/product.png" alt="product">
-                    
                 </div>
-                <h4 class="list-rec__title text-black">El curso de aplicación <br>recomendado es de 1 mes</h4>
+                <h4 class="list-rec__title text-black">Tratamiento sugerido: <br>Mínimo 30 días seguidos</h4>
             </li>
         </ul>
-        <p class="recommend__subtitle">*dado que <span class="blue text-bold">Turboslim </span>quemagrasas tiene
-            un efecto fuerte, no debes tomar más de lo indicado en las instrucciones</p>
+        <p class="recommend__subtitle">Advertencia: Como <span class="blue text-bold">Turboslim </span>es muy potente quemando grasa, por favor no superes la dosis recomendada en la etiqueta.</p>
     </div>
 </section>
 <div class="doctor block">
     <div class="container doctor__wrapper">
-
             <img class="doctor__photo" src="assets/img/expert.png" alt="expert">
-        
         <ul class="doctor__list list-doc">
-            <li class="list-doc__item list-doc__item--1"><span class="list-doc__strong text-bold">Para acelerar el
-                        efecto,</span><span> siga las instrucciones</span></li>
-            <li class="list-doc__item"> <span class="list-doc__strong text-bold">Para obtener un máximo efecto,
-                     </span><span>continúe el curso incluso después de que los síntomas hayan desaparecido</span></li>
-            <li class="list-doc__item"> <span class="list-doc__strong text-bold">Para prevenir problemas
-                     </span><span>trate de comer bien y hacer ejercicio</span></li>
+            <li class="list-doc__item list-doc__item--1"><span class="list-doc__strong text-bold">La constancia es clave:</span><span> Tómalo todos los días sin falta.</span></li>
+            <li class="list-doc__item"> <span class="list-doc__strong text-bold">Para no volver a engordar:</span><span> Completa tu ciclo de 30 días, incluso si bajas de peso antes.</span></li>
+            <li class="list-doc__item"> <span class="list-doc__strong text-bold">Bebe abundante agua:</span><span> Te ayudará a expulsar la grasa derretida rápidamente.</span></li>
         </ul>
         <div class="doctor__info info-doc">
             <div class="info-doc__wrap">
-                <p class="info-doc__name text-bold">Omero Martínez,</p>
-                <p class="info-doc__post">urólogo, 20 años de experiencia</p>
+                <p class="info-doc__name text-bold">Dr. Omero Martínez,</p>
+                <p class="info-doc__post">Especialista en Control de Peso</p>
             </div>
             <div class="info-doc__img">
-
                     <img src="assets/img/sign.png" alt="sign">
                     <img src="assets/img/approved.png" alt="approved">
-                
             </div>
         </div>
     </div>
 </div>
 <div class="question block">
     <div class="container question__wrapper">
-        <h2 class="question__title title">Preguntas que nos hacen:</h2>
+        <h2 class="question__title title">Preguntas Frecuentes:</h2>
         <ul class="question__list list-q">
             <li class="list-q__item">
-                <h4 class="list-q__title text-black">1. ¿Puedo perder peso con la achicoria natural?</h4>
-                <p class="list-q__text">Sí, pero para ello es necesario consumir 4 tazas de achicoria al día, que
-                    es perjudicial para el cuerpo. En este caso, la recepción debe combinarse con la actividad
-                    física. A modo de comparación, se puede lograr el mismo efecto con un curso del producto
-                    Turboslim.</p>
+                <h4 class="list-q__title text-black">1. ¿Puedo obtener el mismo efecto comprando achicoria natural en el mercado?</h4>
+                <p class="list-q__text">Lamentablemente no. Necesitarías litros de infusión diaria, lo cual irritaría tu colon y estómago. Turboslim aísla únicamente el principio activo "quemador de grasa" (Inulina) en alta concentración, sin los efectos secundarios de consumir la planta cruda.</p>
             </li>
             <li class="list-q__item">
-                <h4 class="list-q__title text-black">2. ¿Puede haber una sobredosis o adicción? </h4>
-                <p class="list-q__text">No. Turboslim no es adictivo, porque para el cuerpo es como un complejo
-                    vitamínico adicional que ayuda a restablecer procesos alterados, en este caso, el procesamiento
-                    del tejido adiposo. No puede haber una sobredosis si lo toma siguiendo las instrucciones. </p>
+                <h4 class="list-q__title text-black">2. ¿Tiene contraindicaciones o me haré adicta? </h4>
+                <p class="list-q__text">No. Turboslim es 100% natural y no es adictivo. Es como tomar un súper-vitamínico que reactiva tu metabolismo dormido. No causa taquicardia ni insomnio, porque ataca la grasa bloqueando carbohidratos, no alterando tu sistema nervioso.</p>
             </li>
             <li class="list-q__item">
-                <h4 class="list-q__title text-black">3. ¿Cuánto Turboslim necesito para mi peso y altura?</h4>
-                <p class="list-q__text">Para obtener un cálculo preciso y una recomendación detallada, consulte a
-                    un especialista. Deja tu número en cualquiera <a class="list-q__link" href="#link-form">de los
-                        formularios</a> de pedido del sitio web para que un especialista te contacte y asesore.</p>
+                <h4 class="list-q__title text-black">3. ¿Es seguro comprar en esta página?</h4>
+                <p class="list-q__text">Totalmente seguro. Solo debes dejar tu nombre y teléfono. Uno de nuestros asesores te llamará para confirmar la dirección. ¡Y lo mejor: Pagas únicamente cuando recibes el producto en tus manos!</p>
             </li>
             <li class="list-q__item list-q__item--vissible js-question-vissible">
-                <h4 class="list-q__title text-black">4. Después de completar el curso, ¿puede volver el peso?</h4>
-                <p class="list-q__text">Más probablemente no que sí. El curso con el producto Turboslim normaliza
-                    el metabolismo, el tejido adiposo comenzará a procesarse activamente y su apetito también se
-                    normalizará. Por lo tanto, si se gana peso, lentamente. Pero aún así recomendamos no abusar de
-                    la comida chatarra y grasosa.</p>
+                <h4 class="list-q__title text-black">4. ¿Y si dejo de tomarlo, viene el famoso "efecto rebote"?</h4>
+                <p class="list-q__text">No hay rebote. Como Turboslim repara tu metabolismo y normaliza tu apetito desde adentro, tu cuerpo ya no sentirá la necesidad urgente de acumular grasa ni comer azúcar. Podrás mantener tu nuevo peso sin problemas.</p>
             </li>
             <li class="list-q__item list-q__item--vissible js-question-vissible">
-                <h4 class="list-q__title text-black">5. ¿Puedo comer lo que quiera?</h4>
-                <p class="list-q__text">No podemos obligarlo a no comer algo. Y sí, incluso si comes dulces y
-                    panecillos, Turboslim te ayudará a quemar grasa. Pero aún así, con una dieta equilibrada, el
-                    efecto será más fuerte y perderá peso más rápido.</p>
+                <h4 class="list-q__title text-black">5. Honestamente, ¿tengo que dejar de comer pan y dulces?</h4>
+                <p class="list-q__text">No es obligatorio sufrir dietas de hambre. Gracias a las Judías Blancas, Turboslim bloquea gran parte de los carbohidratos. Sin embargo, si reduces un poco el azúcar mientras tomas las cápsulas, tu pérdida de peso será tan rápida que te sorprenderá.</p>
             </li>
             <li class="list-q__item list-q__item--vissible js-question-vissible">
-                <h4 class="list-q__title text-black">6. ¿Puedo combinarlo con deportes?</h4>
-                <p class="list-q__text">Por supuesto. Muchos deportistas utilizan Turboslim como suplemento
-                    nutricional deportivo eficaz quemagrasas. Por lo tanto, si haces carreras cortas, abdominales en
-                    casa o, a veces, vas al gimnasio, el efecto te sorprenderá.</p>
+                <h4 class="list-q__title text-black">6. ¿Puedo tomarlo si no hago deporte?</h4>
+                <p class="list-q__text">Sí, Turboslim está diseñado para funcionar incluso si llevas un estilo de vida sedentario. Aunque si caminas o haces ejercicios suaves 20 minutos al día, potenciarás el efecto multiplicando los resultados.</p>
             </li>
         </ul>
-        <div class="question__button text-bold"><span class="js-question-open question__open">Otras
-                     preguntas</span><span class="js-question-close question__close">Esconder</span></div>
-            <img class="question__prod"
-                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
-                 alt="product">
-        
+        <div class="question__button text-bold"><span class="js-question-open question__open">Ver Más
+                     Preguntas</span><span class="js-question-close question__close">Esconder</span></div>
+            <img class="question__prod" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="product">
         <form class="question__form form-q form x_order_form orderForm" id="link-form" method="post">
-            <h3 class="form-q__title text-black">¿Aún tienes preguntas? </h3>
-            <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required
-                                                            placeholder="Mi nombre"></div>
-            <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required
-                                                             placeholder="Mi número" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
-            <button class="form__btn btn" type="submit"><span class="btn__big">Hacer </span><span class="btn__small">el
-                        pedido</span></button>
+            <h3 class="form-q__title text-black">¿Lista para cambiar tu vida?</h3>
+            <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required placeholder="Ingresa tu Nombre"></div>
+            <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required placeholder="Ingresa tu Celular" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
+            <button class="form__btn btn" type="submit"><span class="btn__big">Asegurar Mi </span><span class="btn__small">Tratamiento Ahora</span></button>
             </form>
     </div>
 </div>
 <section class="order block bg" id="order">
     <div class="label js-label" data-target="#order"></div>
     <div class="container order__wrapper">
-        <h2 class="order__title title">Cómo pedir <span class="blue">Turboslim </span>original</h2>
+        <h2 class="order__title title">Pide Fácil, Rápido y 100% Seguro</h2>
         <ul class="order__list-order list-order">
             <li class="list-order__item">
                 <div class="list-order__img list-order__img--form"></div>
-                <h4 class="list-order__title text-black">Completar el formulario de pedido</h4>
-                <p class="list-order__text">Solo tienes que indicar tu nombre<br>y número de teléfono</p>
+                <h4 class="list-order__title text-black">Paso 1: Tu Solicitud</h4>
+                <p class="list-order__text">Ingresa tu Nombre y Teléfono en nuestro formulario seguro.</p>
             </li>
             <li class="list-order__item">
                 <div class="list-order__img list-order__img--operator"></div>
-                <h4 class="list-order__title text-black">Responde la llamada del operador</h4>
-                <p class="list-order__text">Aclarará tus datos y responderá<br> a todas las preguntas sobre el
-                    producto</p>
+                <h4 class="list-order__title text-black">Paso 2: Confirmación</h4>
+                <p class="list-order__text">Una asesora te llamará de inmediato para tomar la dirección de envío.</p>
             </li>
             <li class="list-order__item">
                 <div class="list-order__img list-order__img--prod"></div>
-                <h4 class="list-order__title text-black">Paga al recibir </h4>
-                <p class="list-order__text">Pagaremos todos los gastos<br> de envío nosotros mismos</p>
+                <h4 class="list-order__title text-black">Paso 3: Pagas al Recibir</h4>
+                <p class="list-order__text">Cero Riesgos. Solo nos pagas cuando el producto llegue a tu puerta.</p>
             </li>
         </ul>
-        <p class="order__subtitle">Si tiene alguna pregunta, siempre puede contactarnos y obtener una consulta
-            <span class="green text-bold">gratuita </span>detallada sobre el producto y cómo usarlo</p>
+        <p class="order__subtitle">Da el primer paso hoy. Tienes garantizado el <span class="green text-bold">Envío Gratis </span>y el precio con descuento exclusivo web.</p>
     </div>
 </section>
 <section class="photos">
     <div class="container block photos__wrap">
-        <h2 class="photos__title title">Imagina que tu figura se vuelve más delgada y estética</h2>
+        <h2 class="photos__title title">Imagina la cara de tus amigas cuando te vean con tu nueva figura...</h2>
         <div class="photos__images images">
-                <img class="images__item images__item--1"
-                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
-                     alt="photo">
+                <img class="images__item images__item--1" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="photo">
                 <img class="images__item images__item--2" src="assets/img/2.png" alt="photo">
-
-                <img class="images__item images__item--3"
-                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
-                     alt="photo">
-
+                <img class="images__item images__item--3" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="photo">
                 <img class="images__item images__item--4" src="assets/img/4.png" alt="photo">
-
                 <img class="images__item images__item--5" src="assets/img/5.png" alt="photo">
-
                 <img class="images__item images__item--6" src="assets/img/6.png" alt="photo">
-
                 <img class="images__item images__item--7" src="assets/img/7.png" alt="photo">
-
                 <img class="images__item images__item--8" src="assets/img/8.png" alt="photo">
-
                 <img class="images__item images__item--9" src="assets/img/9.png" alt="photo">
-
                 <img class="images__item images__item--10" src="assets/img/10.png" alt="photo">
-
-                <img class="images__item images__item--11"
-                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
-                     alt="photo">
-
-                <img class="images__item images__item--12"
-                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
-                     alt="photo">
+                <img class="images__item images__item--11" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="photo">
+                <img class="images__item images__item--12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==" alt="photo">
                 <img class="images__item images__item--13" src="assets/img/13.png" alt="photo">
-
                 <img class="images__item images__item--14" src="assets/img/14.png" alt="photo">
-
                 <img class="images__item images__item--15" src="assets/img/15.png" alt="photo">
-
                 <img class="images__item images__item--16" src="assets/img/16.png" alt="photo">
-
                 <img class="images__item images__item--17" src="assets/img/17.png" alt="photo">
                 <img class="images__item images__item--18" src="assets/img/18.png" alt="photo">
-            
         </div>
-        <h3 class="photos__subtitle text-black">Muchos lo han logrado. Usted puede hacerlo también!</h3>
+        <h3 class="photos__subtitle text-black">Ellas tomaron acción y lo lograron. ¡Tú también puedes, HOY!</h3>
     </div>
 </section>
 <div class="ever-popup-build">
     <div class="popup" id="cloneThis">
         <div class="popup__wrapper">
-            <h2 class="popup__title"><span class="blue">Turboslim </span><br><span>cápsulas adelgazantes</span>
+            <h2 class="popup__title"><span class="blue">Turboslim </span><br><span>Tu Cuerpo Ideal Te Espera</span>
             </h2>
             <div class="popup__form">
                 <form class="form x_order_form orderForm" method="post">
-                    <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required
-                                                                    placeholder="Mi nombre"></div>
-                    <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone"
-                                                                     required placeholder="Mi número" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
-                    <button class="form__btn btn" type="submit"><span class="btn__big">Pedido</span><span class="btn__small">con
-                              descuento</span></button>
+                    <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required placeholder="Tu Nombre Aquí"></div>
+                    <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required placeholder="Tu Número de Celular" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
+                    <button class="form__btn btn" type="submit"><span class="btn__big">RESERVAR</span><span class="btn__small">MI DESCUENTO</span></button>
                     </form>
             </div>
             <div class="popup__security security">
                 <img class="security__ico" src="assets/img/security.png" alt="security">
-                <p class="security__text">¡Tus datos están protegidos!</p>
+                <p class="security__text">Pago seguro Contra Entrega. 100% Protegido.</p>
             </div>
         </div>
             <img class="popup__img" src="assets/img/product.png" alt="product">
-        
     </div>
 </div>
 <header class="header block bg" id="header">
@@ -947,92 +784,73 @@
         <div class="header__wrapper">
             <div class="header__info">
                 <h1 class="header__title blue">Turboslim</h1>
-                <p class="header__desc">cápsulas adelgazantes</p>
-                <p class="header__text green">"Ayuda para adelgazar a base de inulina y judías blancas"
+                <p class="header__desc">El Método Comprobado</p>
+                <p class="header__text green">"Quema Grasa Mientras Duermes con Inulina y Judías Blancas"
                 </p>
                 <ul class="header__list list-promo">
-                    <li class="list-promo__item">Estimula la quema de grasa</li>
-                    <li class="list-promo__item">Reduce el apetito</li>
-                    <li class="list-promo__item">Evita el aumento de peso al comer</li>
+                    <li class="list-promo__item">Derrite centímetros del vientre</li>
+                    <li class="list-promo__item">Acaba con la ansiedad nocturna</li>
+                    <li class="list-promo__item">Garantía sin efecto rebote</li>
                 </ul>
                 <div class="header__medals header__medals--mob medals">
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_1.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
-
                             <img class="medals__img" src="assets/img/medal_2.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
                             <img class="medals__img" src="assets/img/medal_3.png" alt="medal">
-                        
                     </div>
                 </div>
             </div>
             <div class="header__center">
                     <img class="header__prod" src="assets/img/product.png" alt="Turboslim">
-                
                 <div class="header__medals header__medals--desc medals">
                     <div class="medals__wrap">
                             <img class="medals__img" src="assets/img/medal_1.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
                             <img class="medals__img" src="assets/img/medal_2.png" alt="medal">
-                        
                     </div>
                     <div class="medals__wrap">
                             <img class="medals__img" src="assets/img/medal_3.png" alt="medal">
-                        
                     </div>
                 </div>
             </div>
             <div class="header__form">
                 <div class="order-form">
                     <div class="order-form__top">
-                        <p class="order-form__ttl">Pedido con descuento<span class="date-0"
-                                                                             data-format="dd monthFull"></span></p>
+                        <p class="order-form__ttl">Promo Especial Vence Hoy<span class="date-0" data-format="dd monthFull"></span></p>
                         <div class="order-form__price price">
                             <div class="price__col price__col--old">
-                                <p class="price__name">Precio anterior</p>
-                                <div class="price__wrap"><span class="price__val x_price_previous">69000  </span><span
-                                        class="price__currency x_currency">  CLP </span></div>
+                                <p class="price__name">Precio Anterior</p>
+                                <div class="price__wrap"><span class="price__val x_price_previous">69000  </span><span class="price__currency x_currency">  CLP </span></div>
                             </div>
                             <div class="price__col price__col--new">
-                                <p class="price__name">Precio nuevo</p>
-                                <div class="price__wrap"><span class="price__val x_price_current">34500   </span><span
-                                        class="price__currency x_currency">  CLP </span></div>
+                                <p class="price__name">Único Pago Hoy</p>
+                                <div class="price__wrap"><span class="price__val x_price_current">34500   </span><span class="price__currency x_currency">  CLP </span></div>
                             </div>
                         </div>
                         <div class="order-form__form">
                             <form class="form x_order_form orderForm" method="post">
-                                <div class="form__wrap form__wrap--name"><input class="form__input" type="text"
-                                                                                name="name" required
-                                                                                placeholder="Mi nombre"></div>
-                                <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel"
-                                                                                 name="phone" required
-                                                                                 placeholder="Mi número" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
-                                <button class="form__btn btn" type="submit"><span class="btn__big">Pedido</span><span
-                                        class="btn__small">con descuento</span></button>
+                                <div class="form__wrap form__wrap--name"><input class="form__input" type="text" name="name" required placeholder="Tu Nombre"></div>
+                                <div class="form__wrap form__wrap--phone"><input class="form__input" type="tel" name="phone" required placeholder="Tu Número de Celular" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"></div>
+                                <button class="form__btn btn" type="submit"><span class="btn__big">ENVIAR PEDIDO</span><span class="btn__small">A MITAD DE PRECIO</span></button>
                             </form>
                         </div>
                         <div class="order-form__security security">
                             <img class="security__ico" src="assets/img/security.png" alt="security">
-                            <p class="security__text">¡Tus datos están protegidos!</p>
+                            <p class="security__text">Privacidad y Entrega Garantizada.</p>
                         </div>
                     </div>
-                    <div class="order-form__bottom">Quedan <span class="lastpack">10</span> paquetes con Promoción
-                    </div>
+                    <div class="order-form__bottom">¡CORRE! Quedan <span class="lastpack">10</span> frascos en promo</div>
                 </div>
             </div>
         </div>
     </div>
 </header>
-<div class="ev-footer create_rom_footer" data-background-color="white" data-color_link="black"
-     data-color_logo="orange"></div>
+<div class="ev-footer create_rom_footer" data-background-color="white" data-color_link="black" data-color_logo="orange"></div>
 <script src="assets/js/main.js"></script>
 <script defer src="https://179523.selcdn.ru/public/layout-images/eu-footer2.js"></script>
 <script>var cookies = (function (a) {
@@ -1458,6 +1276,4 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
 ?>
 
 </body>
-</html>
-
- 
+</html> 
