@@ -6,6 +6,11 @@
   },
   "routes": [
     {
+      "src": "/thanks$",
+      "status": 308,
+      "headers": { "Location": "/thanks/" }
+    },
+    {
       "src": "/thanks/(.*)",
       "dest": "/thanks/$1"
     },
