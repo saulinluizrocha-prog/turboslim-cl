@@ -6,12 +6,20 @@
   },
   "routes": [
     {
+      "src": "/thanks/(.*)",
+      "dest": "/thanks/$1"
+    },
+    {
+      "src": "/thanks/?$",
+      "dest": "/thanks/index.html"
+    },
+    {
       "src": "/assets/(.*)",
       "dest": "/assets/$1"
     },
     {
-      "src": "/thanks/(.*)",
-      "dest": "/thanks/$1"
+      "src": "/(.*\\.(css|js|png|jpg|jpeg|gif|svg|ico|webp|woff|woff2|ttf|eot|html))",
+      "dest": "/$1"
     },
     {
       "src": "/(.*)",
