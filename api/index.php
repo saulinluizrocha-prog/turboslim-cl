@@ -115,6 +115,23 @@
      e.Modernizr = Modernizr
  }(window, document)
 </script>
+
+     <script defer
+  data-tag="CDAR4anj7pdDj9pLy3DXEY"
+  src="https://cdn.cckdl.com/js/base.min.js">
+</script>
+
+     <meta name="google-site-verification" content="OZ9y92gjrVGx7BCZrwjEiJqnUBSMea5Pd7iJuMbMOGk" />
+
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17545472212"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17545472212');
+</script>
 </head>
 <body class="timer-different ev-date">
 <header class="header block bg">
