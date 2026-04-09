@@ -116,6 +116,120 @@
  }(window, document)
 </script>
 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TurboSlim Chile - Apoyo Natural y Bienestar | 50% de Descuento</title>
+<meta name="description" content="Descubre TurboSlim en Chile. Fórmula natural para tu bienestar. Aprovecha un 50% de descuento (ahorra 34.500 CLP) y paga seguro contra entrega en casa.">
+<meta name="keywords" content="TurboSlim, comprar TurboSlim, precio TurboSlim Chile, pago contra entrega, suplemento natural">
+<link rel="canonical" href="https://turboslim-cl.vercel.app/">
+<meta name="robots" content="index, follow">
+
+<meta property="og:title" content="TurboSlim Chile - Apoyo Natural | Pago Contra Entrega">
+<meta property="og:description" content="Aprovecha el descuento del 50% y ahorra 34.500 CLP. Paga de forma 100% segura al recibir en tu domicilio.">
+<meta property="og:type" content="product">
+<meta property="og:url" content="https://turboslim-cl.vercel.app/">
+<meta property="og:locale" content="es_CL">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://turboslim-cl.vercel.app/#product",
+      "name": "TurboSlim",
+      "description": "Fórmula natural diseñada para el apoyo metabólico y el bienestar corporal continuo.",
+      "brand": {
+        "@type": "Brand",
+        "name": "TurboSlim"
+      },
+      "category": "Health & Beauty > Supplements",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "CLP",
+        "price": "34500",
+        "priceValidUntil": "2026-12-31",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "TurboSlim Chile"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "124"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "María González"
+          },
+          "datePublished": "2026-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Excelente servicio. Pedí online y pagué en efectivo al recibir. Me da mucha confianza."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carlos Soto"
+          },
+          "datePublished": "2026-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Aproveché el descuento de 34.500 CLP. La fórmula es suave y me siento mucho mejor en mi día a día."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://turboslim-cl.vercel.app/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona el Pago Contra Entrega?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es muy sencillo y seguro. No necesitas ingresar tu tarjeta de crédito en línea. Haces el pedido y le pagas en efectivo directamente al mensajero cuando te entregue el producto en tu domicilio en Chile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto ahorro con el descuento actual?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Actualmente tenemos una oferta especial del 50% de descuento. Esto significa que ahorras exactamente 34.500 CLP sobre el precio regular del producto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es seguro el producto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, TurboSlim es una fórmula elaborada con ingredientes naturales seleccionados enfocados en el apoyo metabólico y el bienestar diario de forma suave."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+     
         <script defer
   data-tag="CDAR4anj7pdDj9pLy3DXEY"
   src="https://cdn.cckdl.com/js/base.min.js">
