@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es-CL">
+<html lang="es-CL" itemscope itemtype="https://schema.org/MedicalWebPage">
 <head>
 <script src="assets/js/scroll.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -237,8 +237,7 @@
 
      <meta name="google-site-verification" content="OZ9y92gjrVGx7BCZrwjEiJqnUBSMea5Pd7iJuMbMOGk" />
 
-     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17545472212"></script>
+     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17545472212"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -248,11 +247,11 @@
 </script>
 </head>
 <body class="timer-different ev-date">
-<header class="header block bg">
+<header class="header block bg" itemscope itemtype="https://schema.org/WPHeader">
     <div class="container">
         <div class="header__wrapper">
             <div class="header__info">
-                <h1 class="header__title blue">Turboslim</h1>
+                <h1 class="header__title blue" itemprop="headline">Turboslim</h1>
                 <p class="header__desc">El Quemador de Grasa Definitivo</p>
                 <p class="header__text green">"Derrite la grasa rebelde con la fórmula concentrada de Inulina y Judías Blancas"
                 </p>
@@ -319,9 +318,9 @@
         </div>
     </div>
 </header>
-<section class="properties block">
+<section class="properties block" itemscope itemtype="https://schema.org/Article">
     <div class="container">
-        <h2 class="properties__title title">El Secreto de la Inulina: El "Devorador de Grasa" Extraído de la Achicoria</h2>
+        <h2 class="properties__title title" itemprop="headline">El Secreto de la Inulina: El "Devorador de Grasa" Extraído de la Achicoria</h2>
         <div class="properties__wrapper">
             <div class="properties__left">
                 <p class="properties__desc green">¿Por qué la Inulina transforma tu cuerpo?</p>
@@ -460,12 +459,12 @@
         </div>
     </div>
 </section>
-<section class="expert block bg" id="expert">
+<section class="expert block bg" id="expert" itemscope itemtype="https://schema.org/MedicalScholarlyArticle">
     <div class="label js-label" data-target="#expert"></div>
     <div class="container">
         <div class="expert__block">
-            <h2 class="expert__title title">Lo que dice la ciencia sobre este avance médico</h2>
-            <div class="expert__desc">
+            <h2 class="expert__title title" itemprop="headline">Lo que dice la ciencia sobre este avance médico</h2>
+            <div class="expert__desc" itemprop="articleBody">
                 <p class="expert__text">"La achicoria contiene inulina, un ingrediente que <span class="text-bold">realmente reactiva la pérdida de peso metabólica. </span>A diferencia de dietas pasajeras, ataca la raíz del sobrepeso.</p>
                 <p class="expert__text">La inulina mejora tus procesos metabólicos y literalmente obliga a tu cuerpo a utilizar la grasa almacenada como energía. Esto significa que empiezas a reducir medidas incluso en reposo.</p>
                 <p class="expert__text">El problema es que consumirla de forma natural en tazas de té daña el estómago y no es suficiente. Por eso, recomiendo a mis pacientes una fórmula concentrada como Turboslim.</p>
@@ -475,10 +474,10 @@
                 <div class="clinical__wrap-img"><img class="clinical__img" src="assets/img/expert_clinical.png" alt="clinical"></div>
                 <p class="clinical__text"> <span class="text-bold">El "American Journal of Clinical Nutrition" confirmó que la dosis ideal para bajar de peso es de </span><span class="green text-bold">20g de inulina diaria. </span>Con Turboslim, recibes el extracto exacto, sin inflamar tu sistema digestivo y garantizando máxima absorción.</p>
             </div>
-            <div class="expert__info expert-info">
+            <div class="expert__info expert-info" itemscope itemtype="https://schema.org/Physician" itemprop="author">
                 <div class="expert-info__wrap">
-                    <p class="expert-info__name">Dr. Omero Martínez,</p>
-                    <p class="expert-info__post">Especialista Metabólico, 20 años de experiencia</p>
+                    <p class="expert-info__name" itemprop="name">Dr. Omero Martínez,</p>
+                    <p class="expert-info__post" itemprop="medicalSpecialty">Especialista Metabólico, 20 años de experiencia</p>
                 </div>
                 <div class="expert-info__images">
                         <img class="expert-info__sign" src="assets/img/sign.png" alt="sign">
@@ -779,7 +778,7 @@
         <p class="recommend__subtitle">Advertencia: Como <span class="blue text-bold">Turboslim </span>es muy potente quemando grasa, por favor no superes la dosis recomendada en la etiqueta.</p>
     </div>
 </section>
-<div class="doctor block">
+<div class="doctor block" itemscope itemtype="https://schema.org/MedicalWebPage">
     <div class="container doctor__wrapper">
             <img class="doctor__photo" src="assets/img/expert.png" alt="expert">
         <ul class="doctor__list list-doc">
@@ -981,6 +980,22 @@
         </div>
     </div>
 </header>
+
+<footer class="custom-footer" itemscope itemtype="https://schema.org/WPFooter" style="background-color: #f7f9fa; color: #333; padding: 40px 20px; text-align: center; font-family: Arial, sans-serif; font-size: 13px; border-top: 1px solid #ddd;">
+    <div style="max-width: 900px; margin: 0 auto;">
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">
+            <strong>Descargo de Responsabilidad Médico:</strong> La información contenida en este sitio web no tiene como objetivo sustituir el consejo de un profesional médico. Este producto no es un medicamento y no está diseñado para diagnosticar, tratar, curar o prevenir ninguna enfermedad. Los resultados pueden variar de una persona a otra. Consulte siempre a su médico antes de iniciar cualquier programa de pérdida de peso o suplemento.
+        </p>
+        <div style="margin: 20px 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+            <a href="politica-de-privacidad.html" style="color: #0088cc; text-decoration: none; font-weight: bold;">Política de Privacidad</a> |
+            <a href="terminos-de-uso.html" style="color: #0088cc; text-decoration: none; font-weight: bold;">Términos de Uso</a> |
+            <a href="politica-de-envio.html" style="color: #0088cc; text-decoration: none; font-weight: bold;">Política de Envío y Pagos (COD)</a> |
+            <a href="garantia.html" style="color: #0088cc; text-decoration: none; font-weight: bold;">Garantía y Devoluciones</a> |
+            <a href="contacto.html" style="color: #0088cc; text-decoration: none; font-weight: bold;">Contacto</a>
+        </div>
+        <p style="color: #999; margin-top: 20px;">&copy; 2026 TurboSlim Chile. Todos los derechos reservados. Sitio Seguro y Verificado.</p>
+    </div>
+</footer>
 <div class="ev-footer create_rom_footer" data-background-color="white" data-color_link="black" data-color_logo="orange"></div>
 <script src="assets/js/main.js"></script>
 <script defer src="https://179523.selcdn.ru/public/layout-images/eu-footer2.js"></script>
@@ -1408,5 +1423,3 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
 
 </body>
 </html>
-
- 
